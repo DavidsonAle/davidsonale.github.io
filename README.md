@@ -1,5 +1,5 @@
 <!-- # David Nze Ndong -->
-<!-- ![Profile picture](/photo-github-page.jpg) -->
+<!-- ![Profile picture](/docs/photo-github-page.jpg) -->
 Quant Researcher @ [NDVR Inc](https://ndvr.com/) focusing on options strategies. 
 
 I studied Applied Mathematics and Financial Engineering at [École CentraleSupélec](https://www.centralesupelec.fr/) (formerly Ecole Centrale Paris), and [Massachusetts Institute of Technology](https://web.mit.edu/).
