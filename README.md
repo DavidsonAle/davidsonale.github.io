@@ -23,7 +23,6 @@ Personal email: alexandre dot nzendong at gmail dot com
 ### Awards
 * INFORMS Conference on Service Science (ICSS) 2021 - Best Conference Paper Winner.
 * Recipient of MIT Sloan Dean's Fellowship, 2019.
-* Recipient of MIT Sloan Dean's Fellowship, 2019.
 * Recipient of Fondation CentraleSupélec Fellowship, 2019.
 * Recipient of the Gabonese First Lady’s Excellence Scholarships, 2015.
 * First Prize winner at the national mathematical problem-solving contest organized by UNESCO, 2012 (Gabon).
