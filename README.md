@@ -1,6 +1,6 @@
 <!-- # David Alexandre Nze Ndong -->
 <!-- ![Profile picture](/docs/photo-github-page.jpg) -->
-Hello world! Bonjour tout le monde! 
+Hello world! Bonjour tout le monde!  
 
 I am a Quant @ [NDVR Inc](https://ndvr.com/) focusing on options strategies. 
 
@@ -9,7 +9,7 @@ I studied Applied Mathematics and Financial Engineering at [École CentraleSupé
 At MIT, I worked as a research intern and completed an R.A. under [Pr. Georgia Perakis](https://mitmgmtfaculty.mit.edu/gperakis/) (co-director of [MIT Operations Research Center](https://orc.mit.edu/)) focusing on Applied Machine Learning. We were proudly honored to have our [model (MIT Cassandra)](https://github.com/oskali/mit_cassandra) deployed and maintained on the [CDC website](https://www.medrxiv.org/content/10.1101/2022.04.20.22274097v1.full.pdf) (_decommissioned in Mar. 2023_). Priorly, I interned as a Data Scientist at Descartes Trading in the cross-asset trading desk under Samer Comair, now President CIO at Drakai Capital SAS. 
 
 ### Contact
-Personal email: alexandre dot nzendong at gmail dot com
+[LinkedIn Profile](https://www.linkedin.com/in/2016ndongd/) | [ResearchGate](https://www.researchgate.net/profile/David-Nze-Ndong) | [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3937978)
 
 ### Publications
 * `NEW` [A Devil's Bargain: When Generating Income Undermines Investment Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580048), R. Israelov and D. Nze Ndong. _SSRN_, 2023.
@@ -37,7 +37,12 @@ Personal email: alexandre dot nzendong at gmail dot com
 I can be found counting laps in the pool, biking in Boston or playing 3v3/5v5 on the nearest basketball court.
 I am an otaku, and I do enjoy reading research papers.
 
-_Latest read (as of Sep. 2023)_: [High-Frequency Tail Risk Premium and Stock Return Predictability.](https://jfqa.org/wp-content/uploads/2023/08/HFTR_JFQA_Rev2nRound_maintext_Ju23.pdf) C. Almeida, K. Ardison, G. Freire, René Garcia, and P. Orlowski. _Journal of Financial and Quantitative Analysis_. 2023. 
+_Latest read_:
+- Nov. 2023 pick: [Identifying Patterns in Financial Markets: Extending the Statistical Jump Model for Regime Identification.
+](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4556048) A. Aydinhan, P. Kolm, J. Mulvey, and S. Yizhan. _SSRN_. Sep. 2023.
+
+_Previously read_: 
+* Sep. 2023 pick: [High-Frequency Tail Risk Premium and Stock Return Predictability.](https://jfqa.org/wp-content/uploads/2023/08/HFTR_JFQA_Rev2nRound_maintext_Ju23.pdf) C. Almeida, K. Ardison, G. Freire, René Garcia, and P. Orlowski. _Journal of Financial and Quantitative Analysis_. 2023. 
 
 I am learning how to cook, play the piano, dance bachata. Whenever I get the chance, I jump on the next train or take the next flight!
 
