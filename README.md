@@ -1,4 +1,4 @@
-<!-- # David Nze Ndong -->
+<!-- # David Alexandre Nze Ndong -->
 <!-- ![Profile picture](/docs/photo-github-page.jpg) -->
 Hello world! Bonjour tout le monde! 
 
@@ -19,7 +19,12 @@ Personal email: alexandre dot nzendong at gmail dot com
 * [Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States](https://www.pnas.org/doi/10.1073/pnas.2113561119), E. Cramer et al., _Proceedings of the National Academy of Sciences_. 2022.
 * [The United States COVID-19 Forecast Hub dataset](https://www.nature.com/articles/s41597-022-01517-w), E. Cramer et al., _Nature_. 2022.
 
-<!-- ### Publications and Preprints -->
+### News/Quotes
+* [(Bloomberg: 11/03/2023) Chasing Options Income Risks ‘Grave Error,’ Former AQR Quant Warns](https://www.bloomberg.com/news/articles/2023-11-03/former-aqr-quant-warns-of-grave-error-chasing-options-income)
+* [(Bloomberg: 03/07/2023) Hedging Against Stock Market Dangers Could Make Losses Much Worse](https://www.bloomberg.com/news/articles/2023-03-07/in-stock-market-hedging-cure-may-be-worse-than-disease-ex-aqr-quant-says#xj4y7vzkg)
+* [(LinkedIn: 01/2023) Post on MIT Jameel Clinic - AI & Health page](https://www.linkedin.com/search/results/content/?keywords=Nze%20Ndong%20mit&sid=0qq&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A7019053911827189761%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse))
+* [(MIT Sloan: 03/07/2023) Research Spotlight: Novel, Robust AI-Based COVID-19 Model Predicts Disease Prevalence and New Infections](https://mitsloan.mit.edu/centers-initiatives/health-systems-initiative/research-spotlight-novel-robust-ai-based-covid-19-model-predicts-disease-prevalence-and-new-infections)
+
 
 ### Awards
 * INFORMS Conference on Service Science (ICSS) 2021 - Best Conference Paper Winner.
