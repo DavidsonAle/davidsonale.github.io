@@ -13,7 +13,7 @@ At MIT, I worked as a research intern and completed an R.A. under [Pr. Georgia P
 
 ### Publications
 * `NEW` [A Devil's Bargain: When Generating Income Undermines Investment Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580048), R. Israelov and D. Nze Ndong. _SSRN_, 2023.
-* [Equity Tail Protection Strategies Before, During, and After COVID](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443846), R. Israelov and D. Nze Ndong. Soon to be pulished in _The Journal of Portfolio Management_, 2024. 
+* [Equity Tail Protection Strategies Before, During, and After COVID](https://www.pm-research.com/content/iijpormgmt/early/2023/12/18/jpm20231575), R. Israelov and D. Nze Ndong. _The Journal of Portfolio Management_, 2024. 
 * [The Hidden Cost in Costless Put-Spread Collars: Rebalance Timing Luck](https://www.pm-research.com/content/iijaltinv/early/2023/08/04/jai20231196), S. Braun, C. Hoffstein, R. Israelov and D. Nze Ndong. _Journal of Alternative Investments_. 2023.
 * [Prediction, Prevalence, and the Operations of Vaccine Allocation](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.1160), A. Bennouna, J. Joseph, D. Nze Ndong, G. Perakis, D. Singhvi, O. Skali Lami, Y. Spantidakis, L. Thayaparan, and A. Tsiourvas, _Manufacturing & Service Operations Management_. 2022.
 * [Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States](https://www.pnas.org/doi/10.1073/pnas.2113561119), E. Cramer et al., _Proceedings of the National Academy of Sciences_. 2022.
